@@ -1,0 +1,41 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Large models and datasets (optional - uncomment if needed)
+# *.model
+# Image/MMHS150K_GT.json
+# Text/fasttext_model.model
+# Text/word2vec_model.model
+# Text/textual_data_an1_cleaned_final.csv
+
+# Virtual Environment
+venv/
+env/
+ENV/ 
